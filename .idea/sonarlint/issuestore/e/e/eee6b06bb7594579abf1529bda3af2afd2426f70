@@ -1,0 +1,21 @@
+
+t
+java:S1450#"^Remove the "categorySpinner" field and declare it as a local variable in the relevant methods.(É¿«©
+v
+java:S1450!"[Remove the "doneCheckBox" field and declare it as a local variable in the relevant methods.(§¨âŸýÿÿÿÿ
+s
+java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(žâê¸þÿÿÿÿ
+R
+java:S18747"7Remove this use of "getSerializable"; it is deprecated.(½‚°½ýÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(Àž¦¸øÿÿÿÿ
+œ
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×þÿÿÿÿ
+—
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡Ý
+œ
+java:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(ºÔõƒþÿÿÿÿ
+G
+java:S1602v",Remove useless curly braces around statement(ìžÑÔÿÿÿÿÿ
+I
+java:S1068 ".Remove this unused "dateButton" private field.(ˆŸªùùÿÿÿÿ
